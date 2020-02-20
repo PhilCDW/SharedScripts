@@ -1,4 +1,5 @@
 Authorization.ModifyPermissions
+Authorization.ModifyRoles
 Authorization.ModifyPrivileges
 Authorization.ReassignRolePermissions
 StorageProfile.Update
@@ -62,3 +63,5 @@ Folder.Create
 Folder.Delete
 DVPortgroup.Modify
 Extension.Register
+Host.Inventory.AddHostToCluster
+VirtualMachine.GuestOperations.ModifyAliases
